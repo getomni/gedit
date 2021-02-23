@@ -2,12 +2,12 @@
   <br>
   <img src="https://storage.googleapis.com/golden-wind/github/omni/omni.png" alt="Omni Logo" width="100">
   <br>
-  Omni for <a href="https://website-link.com">X</a>
+  Omni for <a href="https://wiki.gnome.org/Apps/Gedit">Gedit</a>
   <br>
 </h1>
 
 <p align="center">
-  <strong>Dark theme for <a href="https://website-link.com">X</a></strong>
+  <strong>Dark theme for <a href="https://wiki.gnome.org/Apps/Gedit">Gedit</a></strong>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img alt="Omni screnshoot for X" src="./screenshot.png">
+  <img alt="Omni screnshoot for Gedit" src="./screenshot.png">
 </p>
 
 ## Install
@@ -32,11 +32,11 @@ All instructions can be found at [INSTALL.md](./INSTALL.md).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/getomni/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/getomni/gedit/graphs/contributors).
 
-| [![João Pedro](https://github.com/jpedroschmitz.png?size=100)](https://github.com/jpedroschmitz) |
-| ------------------------------------------------------------------------------------------------ |
-| [João Pedro](https://github.com/jpedroschmitz)                                                   |
+| [![Lohana Torres](https://github.com/heyloh.png?size=100)](https://github.com/heyloh) |
+| ------------------------------------------------------------------------------------- |
+| [Lohana Torres](https://github.com/heyloh)                                            |
 
 ## License
 
